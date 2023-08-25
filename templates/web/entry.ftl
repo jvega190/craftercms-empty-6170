@@ -1,6 +1,7 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
 <!DOCTYPE html>
+<!-- asd -->
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
